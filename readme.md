@@ -1,8 +1,12 @@
 # RxJS First Steps
 
-## Blog
+## Blogs
 
-[medium.com](https://medium.com/codingthesmartway-com-blog/getting-started-with-rxjs-part-1-setting-up-the-development-environment-creating-observables-db76ce053725)
+Part One [codingthesmartway.com](https://codingthesmartway.com/getting-started-with-rxjs-part-1-setting-up-the-development-environment-creating-observables/)
+
+Part Two [codingthesmartway.com](https://codingthesmartway.com/getting-started-with-rxjs-part-2-subscriptions/)
+
+Part Three [codingthesmartway.com](https://codingthesmartway.com/getting-started-with-rxjs-part-3-hot-and-cold-observables/)
 
 ### Repro Steps
 
