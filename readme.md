@@ -17,3 +17,7 @@ npm install rxjs webpack webpack-dev-server typescript ts-loader
 ```bash
 npm install webpack-cli --save-dev
 ```
+
+### Debug
+
+Answer Two [stackoverflow.com](https://stackoverflow.com/questions/42881493/debugging-typescript-with-source-maps-and-webpack)
